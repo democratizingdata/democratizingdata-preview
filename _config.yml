@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Democratizing Data
+title: Democratizing Data (preview)
 description: >- # this means to ignore newlines until "baseurl:"
   A Search And Discovery Platform For Public Data Assets.
 email: democratizing.data.project@gmail.com
 
 # URL settings
-domain: democratizingdata.ai       # if you want to force HTTPS, specify the domain
-url: "https://democratizingdata.ai" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: ""          # the subpath of your site, e.g. /blog
+domain: democratizingdata.github.io       # if you want to force HTTPS, specify the domain
+url: "https://democratizingdata.github.io"  # Replace YOUR-ORG-NAME
+baseurl: "/democratizingdata-preview"
 
 # SEO and Performance
 plugins:
