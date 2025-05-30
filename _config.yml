@@ -21,8 +21,8 @@ email: democratizing.data.project@gmail.com
 
 # URL settings
 domain: democratizingdata.ai       # if you want to force HTTPS, specify the domain
-url: "https://democratizingdata.ai" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: ""          # the subpath of your site, e.g. /blog
+url: "https://democratizingdata.github.io"
+baseurl: "/democratizingdata-preview"
 
 # SEO and Performance
 plugins:
